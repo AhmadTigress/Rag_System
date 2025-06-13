@@ -1,0 +1,11 @@
+langchain>=0.1.0
+langchain-community>=0.0.37
+langchain-core>=0.1.4
+langchain-huggingface>=0.0.2
+chromadb>=0.4.24
+sentence-transformers>=2.2.2
+huggingface_hub>=0.21.4
+transformers>=4.39.3
+torch>=2.0.0
+pypdf>=3.17.4
+python-dotenv>=1.0.1
