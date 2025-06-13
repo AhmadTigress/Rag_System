@@ -20,20 +20,20 @@ The system combines **retrieval-based search** and **generative AI** to deliver 
 
 ---
 
-## Tech Stack
+## Tools & Libraries Used
 
 - **Python 3.11+**
 - **LangChain**
 - **ChromaDB**
 - **Hugging Face Transformers & Embeddings**
 - **PyPDF**
-- **OpenAI**
+- **Hugging Face (FLAN-T5)**
 
 ---
 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/oandg-rag-assistant.git
-cd oandg-rag-assistant
+git clone https://github.com/AhmadTigress/Rag_System.git
+cd Rag_System
 pip install -r requirements.txt
