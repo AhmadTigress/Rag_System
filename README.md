@@ -26,8 +26,8 @@ The system combines **retrieval-based search** and **generative AI** to deliver 
 - **LangChain**
 - **ChromaDB**
 - **Hugging Face Transformers & Embeddings**
-- **PyPDF / pdfplumber** (for PDF document loading)
-- **OpenAI / Local LLMs** (for response generation)
+- **PyPDF**
+- **OpenAI**
 
 ---
 
