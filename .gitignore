@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Hugging Face Transformers & Datasets
+*.cache/
+huggingface/
+hub/
+~/.cache/huggingface/
+~/.huggingface/
+tokenizer_config.json
+generation_config.json
+
+# Model files and outputs
+*.bin
+*.ckpt
+*.pt
+*.h5
+*.onnx
+*.tflite
+*.pb
+*.log
+*.json
+*.jsonl
+*.pkl
+*.db
+*.faiss
+*.idx
+*.hnsw
+*.npy
+*.npz
+
+# ChromaDB and Vector Store
+chroma/
+*.chroma
+*.parquet
+*.sqlite3
+*.duckdb
+
+# PDFs and other downloaded files
+*.pdf
+*.zip
+*.tar.gz
+*.7z
+downloads/
+emotive_protocol.pdf
+
+# Data folders
+data/
+datasets/
+corpus/
+index/
+outputs/
+saved_models/
+checkpoints/
+
+# LLM and RAG config
+rag_config.yaml
+config.yaml
+training_args.bin
+
+# OS-specific
+.DS_Store
+Thumbs.db
